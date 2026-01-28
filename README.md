@@ -197,7 +197,7 @@ Version 1.0.0 - Initial release with complete linear and polynomial regression i
 
 ## Authors
 
-* **Your Name** - *Initial work and implementation*
+* **Santiago Hurtado Martínez** - *Initial work and implementation*
 
 ## License
 
